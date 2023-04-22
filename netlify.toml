@@ -1,0 +1,4 @@
+[[redirects]]
+from  = "/*"
+to = "/jash.html"
+status = 200
